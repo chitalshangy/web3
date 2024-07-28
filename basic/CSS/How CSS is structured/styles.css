@@ -1,0 +1,50 @@
+h1 {
+    color: red;
+}
+
+a:link {
+    color: gray;
+}
+
+.manythings {
+    color: blue
+}
+
+#onething {
+    color: brown;
+}
+
+body * {
+    background-color: aqua;
+}
+
+.box p {
+    font-weight: bold;
+}
+
+.box p:first-child {
+    padding: 20px;
+}
+
+h1, h2, .intro {
+    font-weight: bolder;
+}
+
+table {
+    padding: 10px;
+    font-size: large;
+    border-color: brown;
+    background-color: black;
+}
+
+.outer {
+    border: 5px solid black;
+}
+
+.box {
+    padding: 10px;
+    width: calc(90% - 30px);
+    background-color: rebeccapurple;
+    color: white;
+    transform: rotate(0.5turn);
+}
