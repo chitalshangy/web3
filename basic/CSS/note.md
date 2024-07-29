@@ -12,4 +12,5 @@
 <li>cascade rule: later styles replace conflicting styles that apper earlier in the stylesheet.</li>
 <li>specificity：a class is rated as being more specific, as in having more specificity than the element selector, so it cancels the other conflicting style declaration.</li>
 <li>Functions: while most values are relatively simple keywords or numeric values, there are some values that take the form of a function.</li>
+<li>@rules: CSS @rules provide instruction for what CSS should perform or how it should behave</li>
 </ol>

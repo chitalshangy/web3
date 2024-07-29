@@ -14,10 +14,6 @@ a:link {
     color: brown;
 }
 
-body * {
-    background-color: aqua;
-}
-
 .box p {
     font-weight: bold;
 }
@@ -48,3 +44,15 @@ table {
     color: white;
     transform: rotate(0.5turn);
 }
+
+body {
+    background-color: pink;
+}
+
+@media (min-width: 100em) {
+    body {
+        background-color: rgb(124, 124, 221);
+    }
+}
+
+/*this is a comment*/
