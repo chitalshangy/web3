@@ -26,4 +26,5 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page">Styling a biography page</a></h2>
 <ol>
 <li>A simple practice.</li>
+<li>explain for <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#pixels">px</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#ems">em</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#rems">rem</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#ex">ex</a></li>
 </ol>
