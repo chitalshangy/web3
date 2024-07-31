@@ -22,3 +22,8 @@
 <li>Understand how a DOW works.</li>
 <li>If a browser is parsing your rules, and encounters a property or value that it doesn't understand, it ignores it and moves on to the next declaration.</li>
 </ol>
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page">Styling a biography page</a></h2>
+<ol>
+<li>A simple practice.</li>
+</ol>
