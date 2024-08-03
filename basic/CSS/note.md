@@ -28,3 +28,59 @@
 <li>A simple practice.</li>
 <li>explain for <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#pixels">px</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#ems">em</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#rems">rem</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#ex">ex</a></li>
 </ol>
+
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks">CSS building blocks</a></h2>
+
+<ol>
+<li>CSS selectors</li>
+<table>
+    <tr>
+        <th rowspan="4">Type, class, and ID selectors</th>
+        <td>Type selectors</td>
+    </tr>
+    <tr>
+        <td>Universal selector</td>
+    </tr>
+    <tr>
+        <td>Class selectors</td>
+    </tr>
+    <tr>
+        <td>ID selectors(High specificity)</td>
+    </tr>
+    <tr>
+        <th rowspan="3">Attribute selectors</th>
+        <td>Presence and value selectors</td>
+    </tr>
+    <tr>
+        <td>Substring matching selectors</td>
+    </tr>
+    <tr>
+        <td>Case-sensitivity</td>
+    </tr>
+    <tr>
+        <th rowspan="1">Pseudo-classes and pseudo-elements</th>
+        <td>/</td>
+    </tr>
+    <tr>
+        <th rowspan="6">Combinators</th>
+        <td>Descendant combinator</td>
+    </tr>
+    <tr>
+        <td>Child combinator</td>
+    </tr>
+    <tr>
+        <td>Next-sibling combinator</td>
+    </tr>
+    <tr>
+        <td>Subsequent-sibling combinator</td>
+    </tr>
+    <tr>
+        <td>Creating complex selectors with nesting</td>
+    </tr>
+    <tr>
+        <td>Using combinators</td>
+    </tr>
+</table>
+
+</ol>
