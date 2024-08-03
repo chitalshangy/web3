@@ -1,0 +1,101 @@
+br {
+    color: black;
+}
+
+.container0 {
+    h1 {
+        color: blue;
+    }
+    
+    h2 {
+        color:  white;
+        background-color: blue;
+    }
+    
+    span {
+        font-size: 200%;
+    }
+}
+
+.container1 {
+    #special {
+        background-color: yellow;
+    }
+
+    .alert {
+        /* 
+        border-width: 1px;
+        border-style: solid;
+        border-color: gray; 
+        */
+        border: 1px solid gray;
+    }
+
+    .alert.stop {
+        background-color: red;
+    }
+
+    .alert.go {
+        background-color: green;
+    }
+
+}
+
+.container2 {
+    a:link  {
+        color: orange;
+    }
+
+    a:visited {
+        color: green;
+    }
+
+    a:hover {
+        text-decoration: none;
+    }
+
+    p:first-child {
+        font-size: 150%;
+    }
+
+    p:first-child::first-line {
+        color: red;
+    }
+
+    tr:nth-child(even)  {
+        background-color: #333;
+        color: white;
+    }
+}
+
+.container3 {
+
+    h2 + p {
+        color:red;
+    }
+
+    .list > li {
+        border-bottom: 1px gray solid;
+        list-style: none;
+    }
+
+}
+
+.container4 {
+
+    a {
+        border: 1px solid gray;
+    }
+    
+    a[title] {
+        border-color: pink;
+    }
+
+    a[href*="contact"] {
+        border-color: orange;
+    }
+
+    a[href^="https"] {
+        border-color: green;
+    }
+}
