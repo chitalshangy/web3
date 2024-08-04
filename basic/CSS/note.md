@@ -82,5 +82,5 @@
         <td>Using combinators</td>
     </tr>
 </table>
-
+<li>Cascade, specificity, and inheritance</li>
 </ol>
