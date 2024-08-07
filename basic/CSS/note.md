@@ -85,4 +85,5 @@
 <li>Cascade, specificity, and inheritance</li>
 <li>Cascade layers</li>
 <li>The box model</li>
+<li>Backgrounds and borders</li>
 </ol>
