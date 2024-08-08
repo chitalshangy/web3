@@ -86,4 +86,5 @@
 <li>Cascade layers</li>
 <li>The box model</li>
 <li>Backgrounds and borders</li>
+<li>Handling different text directions</li>
 </ol>
