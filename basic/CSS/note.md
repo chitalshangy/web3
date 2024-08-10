@@ -88,4 +88,14 @@
 <li>Backgrounds and borders</li>
 <li>Handling different text directions</li>
 <li>Overflowing content</li>
+<li>CSS values and units</li>
+<li>Sizing items in CSS</li>
+<li>Images, media, and form elements</li>
+<li>Styling tables</li>
+<li>Advanced styling effects</li>
+<li>Debugging CSS</li>
+<li>Organizing your CSS</li>
+<li>Fundamental CSS comprehension</li>
+<li>Creating fancy letterheaded paper</li>
+<li>A cool-looking box</li>
 </ol>
