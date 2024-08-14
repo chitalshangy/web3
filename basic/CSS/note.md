@@ -85,6 +85,22 @@
 <li>Cascade, specificity, and inheritance</li>
 <li>Cascade layers</li>
 <li>The box model</li>
+<table>
+    <tr>
+        <th rowspan="2">Block and inline boxes</th>
+        <td>Outer display type</td>
+    </tr>
+    <tr>
+        <td>Inner display type</td>
+    </tr>
+    <tr>
+        <th rowspan="2">Box model(Margins, padding, borders)</th>
+        <td>Standard CSS box model</td>
+    </tr>
+    <tr>
+        <td>Alternative CSS box model(box-sizing: border-box;)</td>
+    </tr>
+</table>
 <li>Backgrounds and borders</li>
 <li>Handling different text directions</li>
 <li>Overflowing content</li>
