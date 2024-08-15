@@ -1,0 +1,29 @@
+.task1 {
+    .box {
+        border: 5px black solid;
+        border-radius: 10px;
+        background-image: url(balloons.jpg);
+        background-size: cover;
+    }
+    
+    h2 {
+        background-color: rgb(0 0 0 / 50%);
+        color: white;
+    }
+}
+
+.task2 {
+    .box {
+        border: 5px lightblue solid;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    
+    h2 {
+        padding: 0 40px;
+        text-align: center;
+        background:
+          url(star.png) no-repeat left center,
+          url(star.png) repeat-y right center;
+    }
+}
