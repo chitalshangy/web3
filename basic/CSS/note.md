@@ -103,6 +103,26 @@
 </table>
 <li>Backgrounds and borders</li>
 <li>Handling different text directions</li>
+<table>
+    <tr>
+        <th rowspan="3">writing modes</th>
+        <td>horizontal-tb</td>
+    </tr>
+    <tr>
+        <td>vertical-rl</td>
+    </tr>
+    <tr>
+        <td>vertical-lr</td>
+    </tr>
+    <tr>
+        <th rowspan="2">logical and physical</th>
+        <td>width : inline-size</td>
+    </tr>
+    <tr>
+        <td>height : block-size</td>
+    </tr>
+</table>
+
 <li>Overflowing content</li>
 <li>CSS values and units</li>
 <li>Sizing items in CSS</li>
