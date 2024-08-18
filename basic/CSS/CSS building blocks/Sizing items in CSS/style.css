@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: #fff;
+    color: #333;
+    font:
+      1.2em / 1.5 Helvetica Neue,
+      Helvetica,
+      Arial,
+      sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  .box {
+    border: 5px solid #000;
+    width: 400px;
+    margin-bottom: 1em;
+  }
+
+  .inner {
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 5px;
+  }
+
+.task1 {
+    .box1 {
+        min-block-size: 100px;
+    }
+    
+    .box2 {
+
+        block-size: 100px;
+    }
+
+    margin-block-end: 250px;
+}
+
+.task2 {
+    * {
+        box-sizing: border-box;
+    }
+    .inner {
+        inline-size: 60%;
+        padding: 10%;
+    }
+}
