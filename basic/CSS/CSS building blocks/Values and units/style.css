@@ -1,0 +1,44 @@
+.task1 {
+    .hex {
+        background-color: #86DEFA;
+      }
+      
+      .rgb {
+        background-color: rgb(134 222 250);
+      }
+      
+      .hsl {
+        background-color: hsl(194 92% 75%);
+      }
+      
+      .transparency {
+        background-color: rgb(134 222 250 / 0.6);
+      }
+}
+
+.task2 {
+    h1 {
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+    
+    p {
+        font-size: 16px;
+    }
+    
+    h1 + p {
+        font-size: 120%;
+    }
+}
+
+
+.task3 {
+    .box {
+        background-image: url(star.png);
+        background-repeat: no-repeat;
+        background-position: center 20%;  
+    }
+}
