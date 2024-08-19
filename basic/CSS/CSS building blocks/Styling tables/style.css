@@ -1,0 +1,54 @@
+table {
+    font-size: 75%;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th,
+td {
+    vertical-align: top;
+    padding: 0.3em;
+}
+
+tr :nth-child(2),
+tr :nth-child(3) {
+    text-align: right;
+}
+
+tr :nth-child(1),
+tr :nth-child(4) {
+    text-align: left;
+}
+
+/* mistake
+tbody tr: nth-child(odd) {
+    background-color: #eee;
+} */
+tbody tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+
+
+tfoot {
+    border-top: 1px solid #999;
+
+    /*mistake
+    th {
+        text-align: right;
+    }
+
+    td {
+        text-align: left;
+    } */
+}
+
+tfoot tr :nth-child(1) {
+    text-align: right;
+}
+
+tfoot tr :nth-child(2) {
+    text-align: left;
+}
