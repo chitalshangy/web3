@@ -129,6 +129,24 @@
 <li>Images, media, and form elements</li>
 <li>Styling tables</li>
 <li>Advanced styling effects</li>
+<table>
+    <tr>
+        <th>Box shadows</th>
+    </tr>
+    <tr>
+        <th>Filters</th>
+    </tr>
+    <tr>
+        <th rowspan="2">Blend modes</th>
+        <td>background-blend-mode</td>
+    </tr>
+    <tr>
+        <td>mix-blend-mode</td>
+    </tr>
+    <tr>
+        <th>CSS shapes</th>
+    </tr>
+</table>
 <li>Debugging CSS</li>
 <li>Organizing your CSS</li>
 <li>Fundamental CSS comprehension</li>
