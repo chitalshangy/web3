@@ -157,6 +157,7 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text">Styling text</a></h2>
 <ol>
 <li>Fundamental text and font styling</li>
+<li>Styling lists</li>
 </ol>
 
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout">CSS layout</a></h2>
