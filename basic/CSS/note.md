@@ -159,6 +159,28 @@
 <li>Fundamental text and font styling</li>
 <li>Styling lists</li>
 <li>Styling links</li>
+<table>
+    <tr>
+        <th rowspan="6">order is important</th>
+        <td>a</td>
+    </tr>
+    <tr>
+        <td>a:link</td>
+    </tr>
+    <tr>
+        <td>a:visited</td>
+    </tr>
+    <tr>
+        <td>a:focus</td>
+    </tr>
+    <tr>
+        <td>a:hover</td>
+    </tr>
+    <tr>
+        <td>a:active</td>
+    </tr>
+</table>
+<li>Web fonts</li>
 </ol>
 
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout">CSS layout</a></h2>
