@@ -186,30 +186,5 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout">CSS layout</a></h2>
 <ol>
 <li>Introduction to CSS layout</li>
-<table>
-    <tr>
-        <td>Normal flow</td>
-    </tr>
-    <tr>
-        <td>The display property</td>
-    </tr>
-    <tr>
-        <td>Flexbox</td>
-    </tr>
-    <tr>
-        <td>Grid Layout</td>
-    </tr>
-    <tr>
-        <td>Floats</td>
-    </tr>
-    <tr>
-        <td>Positioning techniques</td>
-    </tr>
-    <tr>
-        <td>Table layout</td>
-    </tr>
-    <tr>
-        <td>Multi-column layout</td>
-    </tr>
-</table>
+<li>Normal Flow</li>
 </ol>
