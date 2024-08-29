@@ -188,4 +188,5 @@
 <li>Introduction to CSS layout</li>
 <li>Normal Flow</li>
 <li>Flexbox</li>
+<li>Grids</li>
 </ol>
