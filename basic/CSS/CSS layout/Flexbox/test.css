@@ -25,7 +25,15 @@ article {
 }
 
 /* Add your flexbox CSS below here */
+
 section {
     display: flex;
-    /* flex-direction: column; */
+}
+
+article {
+    flex: 1 200px;
+}
+
+article:nth-of-type(3) {
+    flex: 2 200px;
 }
