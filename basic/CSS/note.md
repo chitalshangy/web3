@@ -189,4 +189,5 @@
 <li>Normal Flow</li>
 <li>Flexbox</li>
 <li>Grids</li>
+<li>Floats</li>
 </ol>
