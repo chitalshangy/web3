@@ -190,4 +190,5 @@
 <li>Flexbox</li>
 <li>Grids</li>
 <li>Floats</li>
+<li>Positioning</li>
 </ol>
