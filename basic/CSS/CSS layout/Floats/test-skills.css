@@ -1,0 +1,37 @@
+div[class^="task"] {
+    margin: 100px;
+    border: red 5px dotted;
+}
+
+.task1 {
+    .float1 {
+        float: left;
+    }
+
+    .float2 {
+        float: right;
+    }
+
+}
+
+.task2 {
+
+    .float {
+        float: left;
+    }
+
+    .below {
+        float: left;
+    }
+
+}
+
+.task3 {
+    .float {
+        float: right;
+    }
+
+    .box {
+        display: flow-root;
+    }
+}
