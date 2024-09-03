@@ -191,4 +191,5 @@
 <li>Grids</li>
 <li>Floats</li>
 <li>Positioning</li>
+<li>Multiple-column layout</li>
 </ol>
