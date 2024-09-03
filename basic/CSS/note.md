@@ -192,4 +192,5 @@
 <li>Floats</li>
 <li>Positioning</li>
 <li>Multiple-column layout</li>
+<li>Responsive design</li>
 </ol>
