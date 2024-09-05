@@ -193,4 +193,5 @@
 <li>Positioning</li>
 <li>Multiple-column layout</li>
 <li>Responsive design</li>
+<li>Beginner's guide to media queries</li>
 </ol>
