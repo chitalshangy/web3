@@ -195,4 +195,5 @@
 <li>Responsive design</li>
 <li>Beginner's guide to media queries</li>
 <li>Legacy layout methods</li>
+<li>Supporting older browsers</li>
 </ol>
