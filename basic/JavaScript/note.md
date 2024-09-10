@@ -14,4 +14,6 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></h2>
 <ol>
     <li>Conditionals</li>
+    <li>Looping code</li>
+    <li>Functions</li>
 </ol>
