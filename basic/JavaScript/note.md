@@ -16,4 +16,9 @@
     <li>Conditionals</li>
     <li>Looping code</li>
     <li>Functions</li>
+    <li>Build your own function</li>
+    <li>Function return values</li>
+    <li>Introduction to events</li>
+    <li>Event bubbling</li>
+    <li>Image gallery</li>
 </ol>
