@@ -22,3 +22,5 @@
     <li>Event bubbling</li>
     <li>Image gallery</li>
 </ol>
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects">JavaScript objects</a></h2>
