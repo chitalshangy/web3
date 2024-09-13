@@ -26,4 +26,5 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects">JavaScript objects</a></h2>
 <ol>
     <li>Object prototypes</li>
+    <li>Object-oriented programming</li>
 </ol>
