@@ -27,4 +27,5 @@
 <ol>
     <li>Object prototypes</li>
     <li>Object-oriented programming</li>
+    <li>Classes in JavaScript</li>
 </ol>
