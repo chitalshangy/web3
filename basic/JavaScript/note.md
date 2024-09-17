@@ -31,3 +31,8 @@
     <li>Working with JSON</li>
     <li>Object building practice</li>
 </ol>
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous">Asynchronous JavaScript</a></h2>
+<ol>
+    <li></li>
+</ol>
