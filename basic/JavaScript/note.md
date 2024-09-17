@@ -29,4 +29,5 @@
     <li>Object-oriented programming</li>
     <li>Classes in JavaScript</li>
     <li>Working with JSON</li>
+    <li>Object building practice</li>
 </ol>
