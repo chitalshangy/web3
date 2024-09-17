@@ -76,6 +76,10 @@ class Ball extends Shape {
                 let distance = Math.sqrt(dx * dx + dy * dy);
                 if (distance < this.size + ball.size) {
                     ball.color = this.color = randomRGB();
+                    this.velX = -(this.velX);
+                    this.velY = -(this.velY);
+                    ball.velX = -(ball.velX);
+                    ball.velY = -(ball.velY);
                 }
             }
         }
