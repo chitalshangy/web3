@@ -28,4 +28,5 @@
     <li>Object prototypes</li>
     <li>Object-oriented programming</li>
     <li>Classes in JavaScript</li>
+    <li>Working with JSON</li>
 </ol>
