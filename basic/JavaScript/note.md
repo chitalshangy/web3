@@ -34,5 +34,6 @@
 
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous">Asynchronous JavaScript</a></h2>
 <ol>
-    <li></li>
+    <li>Introducing</li>
+    <li>How to use promises</li>
 </ol>
