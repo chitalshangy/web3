@@ -36,4 +36,5 @@
 <ol>
     <li>Introducing</li>
     <li>How to use promises</li>
+    <li>How to implement a promise-based API</li>
 </ol>
