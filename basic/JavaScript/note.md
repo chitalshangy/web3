@@ -39,3 +39,14 @@
     <li>How to implement a promise-based API</li>
     <li>Introducing workers</li>
 </ol>
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs">Client-side web APIs</a></h2>
+<ol>
+    <li>Introduction to web APIs</li>
+    <li>Manipulating documents</li>
+    <li>Fetching data from the server</li>
+    <li>Third-party APIs</li>
+    <li>Drawing graphics</li>
+    <li>Video and Audio APIs</li>
+    <li>Client-side storage</li>
+</ol>
