@@ -73,13 +73,34 @@ class Ball extends Shape {
             if (this !== ball && ball.exists) {
                 let dx = this.x - ball.x;
                 let dy = this.y - ball.y;
-                let distance = Math.sqrt(dx * dx + dy * dy);
-                if (distance < this.size + ball.size) {
+                let distanceSq = dx * dx + dy * dy;
+                let sizeSum = this.size + ball.size;
+                let sizeSumSq = sizeSum * sizeSum;
+
+                if (distanceSq < sizeSumSq) {
+                    // 变更颜色
                     ball.color = this.color = randomRGB();
-                    this.velX = -(this.velX);
-                    this.velY = -(this.velY);
-                    ball.velX = -(ball.velX);
-                    ball.velY = -(ball.velY);
+
+                    // 计算法向量
+                    let distance = Math.sqrt(distanceSq);
+                    let normalX = dx / distance;
+                    let normalY = dy / distance;
+
+                    // 将速度沿法向量反向
+                    let dotProduct = this.velX * normalX + this.velY * normalY;
+                    this.velX -= 2 * dotProduct * normalX;
+                    this.velY -= 2 * dotProduct * normalY;
+
+                    let ballDotProduct = ball.velX * normalX + ball.velY * normalY;
+                    ball.velX -= 2 * ballDotProduct * normalX;
+                    ball.velY -= 2 * ballDotProduct * normalY;
+
+                    // 调整位置以消除重叠
+                    let overlap = sizeSum - distance;
+                    this.x += normalX * (overlap / 2);
+                    this.y += normalY * (overlap / 2);
+                    ball.x -= normalX * (overlap / 2);
+                    ball.y -= normalY * (overlap / 2);
                 }
             }
         }
