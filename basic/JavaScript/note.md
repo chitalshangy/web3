@@ -49,4 +49,15 @@
     <li>Drawing graphics</li>
     <li>Video and Audio APIs</li>
     <li>Client-side storage</li>
+        <table>
+            <tr>
+                <th>web storage</th>
+            <tr>
+            <tr>
+                <th>IndexedDB</th>
+            <tr>
+            <tr>
+                <th>Offline asset storage</th>
+            <tr>
+        </table>
 </ol>
