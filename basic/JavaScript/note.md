@@ -9,6 +9,7 @@
             <td>===</td>
         </tr>
     </table>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">Arrays</a></li>
 </ol>
 
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks">JavaScript building blocks</a></h2>
