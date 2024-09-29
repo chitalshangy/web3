@@ -22,4 +22,7 @@
             <td>npx create-expo-app</td>   
         </tr>
     </table>
+    <li>Add React to an Existing Project</li>
+    <li>Editor Setup</li>
+    <li>Using TypeScript</li>
 </ol>
