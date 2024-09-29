@@ -25,4 +25,6 @@
     <li>Add React to an Existing Project</li>
     <li>Editor Setup</li>
     <li>Using TypeScript</li>
+    <li>Developer Tools</li>
+    <li>React Compiler(experimental)</li>
 </ol>
