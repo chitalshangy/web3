@@ -5,8 +5,21 @@
     <li>Start a New React Project</li>
     <table>
         <tr>
-            <th>Frameworks</th>
+            <th rowspan="4">Frameworks</th>
             <td>Next.js</td>
+            <td>npx create-next-app@latest</td>
+        </tr>
+        <tr>
+            <td>Remix</td>
+            <td>npx create-remix</td>   
+        </tr>
+        <tr>
+            <td>Gatsby</td>
+            <td>npx create-gatsby</td>   
+        </tr>
+        <tr>
+            <td>Expo(for native apps)</td>
+            <td>npx create-expo-app</td>   
         </tr>
     </table>
 </ol>
