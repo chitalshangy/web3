@@ -29,10 +29,11 @@
     <li>React Compiler(experimental)</li>
 </ol>
 
-<h2><a href="">Describing the UI</a></h2>
+<h2><a href="https://react.dev/learn/describing-the-ui">Describing the UI</a></h2>
 <ol>
     <li>First Component</li>
     <li>Importing and Exporting Components</li>
     <li>Writing Markup with JSX</li>
     <li>JavaScript in JSX with Curly Braces</li>
+    <li>Passing Props to a Component</li>
 </ol>
