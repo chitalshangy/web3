@@ -28,3 +28,11 @@
     <li>Developer Tools</li>
     <li>React Compiler(experimental)</li>
 </ol>
+
+<h2><a href="">Describing the UI</a></h2>
+<ol>
+    <li>First Component</li>
+    <li>Importing and Exporting Components</li>
+    <li>Writing Markup with JSX</li>
+    <li>JavaScript in JSX with Curly Braces</li>
+</ol>
