@@ -36,4 +36,13 @@
     <li>Writing Markup with JSX</li>
     <li>JavaScript in JSX with Curly Braces</li>
     <li>Passing Props to a Component</li>
+    <li>Conditional Rendering</li>
+    <li>Rendering Lists</li>
+    <li>Keeping Components Pure</li>
+    <li>UI as a Tree</li>
+</ol>
+
+<h2><a href="https://react.dev/learn/adding-interactivity">Adding Interactivity</a></h2>
+<ol>
+    <li></li>
 </ol>
