@@ -44,5 +44,5 @@
 
 <h2><a href="https://react.dev/learn/adding-interactivity">Adding Interactivity</a></h2>
 <ol>
-    <li></li>
+    <li>Responding to Events</li>
 </ol>
