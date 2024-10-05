@@ -45,4 +45,14 @@
 <h2><a href="https://react.dev/learn/adding-interactivity">Adding Interactivity</a></h2>
 <ol>
     <li>Responding to Events</li>
+    <table>
+        <tr>
+            <th rowspan="2">Event propagation</th>
+            <td>Stopping propagation : e.stopPropagation()</td>
+        </tr>
+        <tr>
+            <td>Preventing default behavior : e.preventDefault()</td>
+        </tr>
+    </table>
+    <li>State: A Component's Memory</li>
 </ol>
