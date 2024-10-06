@@ -55,4 +55,5 @@
         </tr>
     </table>
     <li>State: A Component's Memory</li>
+    <li>Render and Commit</li>
 </ol>
