@@ -56,4 +56,16 @@
     </table>
     <li>State: A Component's Memory</li>
     <li>Render and Commit</li>
+        <table>
+        <tr>
+            <td>Trigger a render</td>
+        </tr>
+        <tr>
+            <td>React renders your components</td>
+        </tr>
+        <tr>
+            <td>React commits changes to the DOM</td>
+        </tr>
+    </table>
+    <li>State as a Snapshot(Component-based)</li>
 </ol>
