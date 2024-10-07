@@ -84,5 +84,10 @@
             <td>Write concise update logic with Immer(Proxy)</td>
         </tr>
     </table>
-    <li>Updating Arrays in State</li>
+    <li>Updating Arrays in State(Replace rather than update)</li>
+</ol>
+
+<h2><a href="https://react.dev/learn/managing-state">Managing State</a></h2>
+<ol>
+    <li>Reacting to Input with State</li>
 </ol>
