@@ -56,7 +56,7 @@
     </table>
     <li>State: A Component's Memory</li>
     <li>Render and Commit</li>
-        <table>
+    <table>
         <tr>
             <td>Trigger a render</td>
         </tr>
@@ -68,4 +68,21 @@
         </tr>
     </table>
     <li>State as a Snapshot(Component-based)</li>
+    <li>Queueing a Series of State Updates</li>
+    <li>Updating Objects in State(Replace rather than update)</li>
+    <table>
+        <tr>
+            <td>Treat state as read-only </td>
+        </tr>
+        <tr>
+            <td>Copying objects with the spread syntax(...)</td>
+        </tr>
+        <tr>
+            <td>Updating a nested object: Objects are not really nested, they are pointed</td>
+        </tr>
+        <tr>
+            <td>Write concise update logic with Immer(Proxy)</td>
+        </tr>
+    </table>
+    <li>Updating Arrays in State</li>
 </ol>
