@@ -90,4 +90,5 @@
 <h2><a href="https://react.dev/learn/managing-state">Managing State</a></h2>
 <ol>
     <li>Reacting to Input with State</li>
+    <li>Choosing the State Structure</li>
 </ol>
