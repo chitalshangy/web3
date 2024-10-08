@@ -91,4 +91,5 @@
 <ol>
     <li>Reacting to Input with State</li>
     <li>Choosing the State Structure</li>
+    <li>Sharing State Between Components</li>
 </ol>
