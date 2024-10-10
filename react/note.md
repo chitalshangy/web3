@@ -91,6 +91,23 @@
 <ol>
     <li>Reacting to Input with State</li>
     <li>Choosing the State Structure</li>
+        <table>
+            <tr>
+                <td>Group related state</td>
+            </tr>
+            <tr>
+                <td>Avoid contradictions in state </td>
+            </tr>
+            <tr>
+                <td>Avoid redundant state</td>
+            </tr>
+            <tr>
+                <td>Avoid duplication in state</td>
+            </tr>
+            <tr>
+                <td>Avoid deeply nested state</td>
+            </tr>
+        </table>
     <li>Sharing State Between Components</li>
     <li>Preserving and Resetting State</li>
 </ol>
