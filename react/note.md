@@ -110,4 +110,7 @@
         </table>
     <li>Sharing State Between Components</li>
     <li>Preserving and Resetting State</li>
+    <li>Extracting State Logic into a Reducer<li>
+    <li>Passing Data Deeply with Context</li>
+    <li>Scaling Up with Reducer and Context</li>
 </ol>
