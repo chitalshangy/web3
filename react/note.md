@@ -114,3 +114,8 @@
     <li>Passing Data Deeply with Context</li>
     <li>Scaling Up with Reducer and Context</li>
 </ol>
+
+<h2><a href="https://react.dev/learn/escape-hatches">Escape Hatches</a></h2>
+<ol>
+    <li>Referencing Values with Refs</li>
+</ol>
