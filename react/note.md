@@ -118,4 +118,11 @@
 <h2><a href="https://react.dev/learn/escape-hatches">Escape Hatches</a></h2>
 <ol>
     <li>Referencing Values with Refs</li>
+    <li>Manipulating the DOM with Refs</li>
+    <li>Synchronizing with Effects</li>
+    <li>You Might Not Need an Effect</li>
+    <li>Lifecycle of Reactive Effects</li>
+    <li>Separating Events from Effects</li>
+    <li>Removing Effect Dependencies</li>
+    <li>Reusing Logic with Custom Hooks</li>
 </ol>
