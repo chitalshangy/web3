@@ -120,6 +120,17 @@
     <li>Referencing Values with Refs</li>
     <li>Manipulating the DOM with Refs</li>
     <li>Synchronizing with Effects</li>
+    <table>
+        <tr>
+            <td>Declare an Effect</td>
+        </tr>
+        <tr>
+            <td>Specify the Effect dependencies</td>
+        </tr>
+        <tr>
+            <td>Add cleanup</td>
+        </tr>
+    </table>
     <li>You Might Not Need an Effect</li>
     <li>Lifecycle of Reactive Effects</li>
     <li>Separating Events from Effects</li>
