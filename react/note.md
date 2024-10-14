@@ -133,6 +133,14 @@
     </table>
     <li>You Might Not Need an Effect</li>
     <li>Lifecycle of Reactive Effects</li>
+    <table>
+        <tr>
+            <td>Each Effect has a separate lifecycle from the surrounding component</td>
+        </tr>
+        <tr>
+            <td>Each Effect describes a separate synchronization process that can start and stop</td>
+        </tr>
+    </table>
     <li>Separating Events from Effects</li>
     <li>Removing Effect Dependencies</li>
     <li>Reusing Logic with Custom Hooks</li>
