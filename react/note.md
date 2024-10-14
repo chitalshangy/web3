@@ -6,7 +6,7 @@
     <table>
         <tr>
             <th rowspan="4">Frameworks</th>
-            <td>Next.js</td>
+            <td><a href="https://nextjs.org/">Next.js</a></td>
             <td>npx create-next-app@latest</td>
         </tr>
         <tr>
