@@ -143,5 +143,10 @@
     </table>
     <li>Separating Events from Effects</li>
     <li>Removing Effect Dependencies</li>
+    <table>
+        <tr>
+            <td>Dependencies should always match the code</td>
+        </tr>
+    </table>
     <li>Reusing Logic with Custom Hooks</li>
 </ol>
