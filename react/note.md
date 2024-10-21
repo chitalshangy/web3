@@ -118,6 +118,14 @@
 <h2><a href="https://react.dev/learn/escape-hatches">Escape Hatches</a></h2>
 <ol>
     <li>Referencing Values with Refs</li>
+        <table>
+        <tr>
+            <td>refs let you retain information between re-renders of a component</td>
+        </tr>
+        <tr>
+            <td>setting the ref’s current value does not trigger a re-render</td>
+        </tr>
+    </table>
     <li>Manipulating the DOM with Refs</li>
     <li>Synchronizing with Effects</li>
     <table>
