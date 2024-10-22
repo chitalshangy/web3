@@ -127,6 +127,11 @@
         </tr>
     </table>
     <li>Manipulating the DOM with Refs</li>
+    <table>
+        <tr>
+            <td>Usually, you will use refs for non-destructive actions like focusing, scrolling, or measuring DOM elements</td>
+        </tr>
+    </table>
     <li>Synchronizing with Effects</li>
     <table>
         <tr>
