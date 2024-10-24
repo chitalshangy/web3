@@ -162,6 +162,14 @@
         </tr>
     </table>
     <li>Reusing Logic with Custom Hooks</li>
+        <table>
+        <tr>
+            <td>Sharing logic</td>
+        </tr>
+        <tr>
+            <td>Passing reactive values</td>
+        </tr>
+    </table>
 </ol>
 
 <h1><a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">Node.js</a></h1>
